@@ -1,0 +1,60 @@
+created_by: VidishaLimbola
+version: 3
+domain: technology
+document_outline: Knowledge contribution about DeepSeek's history, strategy, and training framework
+seed_examples:
+  - context: >-
+      DeepSeek is an AI research company that originated from High-Flyer. It was founded as an independent entity in July 2023.
+    questions_and_answers:
+      - question: When was DeepSeek founded?
+        answer: July 2023
+      - question: What is DeepSeek?
+        answer: An AI research company originating from High-Flyer
+      - question: Who founded DeepSeek?
+        answer: Liang Wenfeng
+
+  - context: >-
+      DeepSeek operates high-performance computing clusters named Fire-Flyer and Fire-Flyer 2. These clusters use Nvidia GPUs and high-speed interconnects for AI training.
+    questions_and_answers:
+      - question: What are DeepSeeks computing clusters called?
+        answer: Fire-Flyer and Fire-Flyer 2
+      - question: What hardware does DeepSeek use for AI training?
+        answer: Nvidia GPUs with high-speed interconnects
+      - question: Why does DeepSeek use high-speed interconnects?
+        answer: To improve AI model training efficiency
+
+  - context: >-
+      In January 2025, DeepSeek released its first free chatbot app based on the DeepSeek-R1 model. By late January, it became the most downloaded free app in the U.S. iOS App Store.
+    questions_and_answers:
+      - question: When did DeepSeek release its first chatbot app?
+        answer: January 2025
+      - question: What is DeepSeek-R1?
+        answer: DeepSeeks chatbot model
+      - question: Why did DeepSeeks chatbot gain popularity?
+        answer: It became the most downloaded free app in the U.S.
+
+  - context: >-
+      DeepSeek focuses on research rather than commercialization, allowing it to avoid strict AI regulations in China.
+    questions_and_answers:
+      - question: What is DeepSeeks main focus?
+        answer: AI research
+      - question: Why does DeepSeek avoid strict AI regulations?
+        answer: It focuses on research instead of commercialization
+      - question: How does DeepSeek differ from other AI companies?
+        answer: It prioritizes research over commercial applications
+
+  - context: >-
+      In February 2025, the Australian government banned DeepSeek for public servants due to cybersecurity concerns. The U.S. Navy also restricted its usage.
+    questions_and_answers:
+      - question: Which government banned DeepSeek for public servants?
+        answer: Australia
+      - question: Why was DeepSeek banned?
+        answer: Cybersecurity concerns
+      - question: Which organization in the U.S. restricted DeepSeek?
+        answer: The U.S. Navy
+
+document:
+  repo: https://github.com/VidishaLimbola/instructlab_knowledge.git
+  commit: 41958755195aa33dae8eb1e6538f412d71401d98
+  patterns:
+    - deepseek.md

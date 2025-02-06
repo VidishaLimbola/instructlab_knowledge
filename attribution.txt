@@ -1,0 +1,5 @@
+title_of_work: Deep seek
+link_to_work: https://en.wikipedia.org/wiki/DeepSeek
+revision: https://en.wikipedia.org/w/index.php?title=DeepSeek&oldid=1274243022
+license_of_the_work: CC-BY-SA-4.0
+creator_names: Wikipedia Authors
