@@ -57,4 +57,4 @@ document:
   repo: https://github.com/VidishaLimbola/instructlab_knowledge.git
   commit: 41958755195aa33dae8eb1e6538f412d71401d98
   patterns:
-    - deepseek.md
+    - deepseek/deepseek.md
